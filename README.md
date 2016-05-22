@@ -333,10 +333,10 @@ http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/
 
 
 ### Books
-Fluent Python
-python cookbook
-learning python  
-programming python
+Fluent Python  
+python cookbook  
+learning python   
+programming python  
 
 -------
 
