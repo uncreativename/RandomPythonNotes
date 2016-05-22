@@ -389,26 +389,24 @@ zero = sum(i == 0 for i in arr)
 ---------------------------------
 
 ### Things to add
-after competitions: get newly learned things
-doing list and set operations with comprehensions
-zip
-lambda, map, filter, reduce
-*args, **kwargs
-getattr/setattr
-generators
+doing list and set operations with comprehensions  
+zip  
+lambda, map, filter, reduce  
+*args, **kwargs  
+getattr/setattr  
+generators  
+any, all functions  
+partial()  
+iter()  
 
-any, all functions
-partial()
-iter()
-
-itertools:
-chain
-combinations/permutations
-compress
-count
-cycle
-groupby
-product
+itertools:  
+chain  
+combinations/permutations  
+compress  
+count  
+cycle  
+groupby  
+product  
 
 -----------------------
 
